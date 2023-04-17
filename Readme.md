@@ -4,7 +4,7 @@
 
 ## Project Screenshot
 
-> ![SS](./SocialMediaAppDBDesign.jpg)
+> ![SS](./SocialMediaAppDBDesign2.jpg)
 
 ---
 
